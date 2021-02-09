@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StickyNotesApp</string>
+    <string name="enter_your_note_here">Enter your Note here</string>
+    <string name="submit">SUBMIT</string>
+</resources>
